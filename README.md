@@ -1,5 +1,13 @@
+![php8](https://img.shields.io/badge/php-%3E8.1.5-blue)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-ff69b4)
+![Jquery](https://img.shields.io/badge/jquery-3.5.1-orange)
+
 # php-send-mail
 Easy way to send an email with PHP and ajax, you think sending an email from php it´s complicated, but the truth is, it isn´t, they have been lying to you!
+
+# Mail server
+On windows, nearly all packages don't include a mail server (but nearly all naked linuxes do have!). So, when using PHP under windows, you need to setup a mail server!
+Going live (put your application online), SMTP localhost problems should be automatically solved.
 
 ## Libraries included
 * Bootstrap v4
